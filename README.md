@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me:
+```
+const irina23 = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Pug, Gulp, Sassm Git],
+  tools: [ CMS Joomla, October CMS, joomshopping]
+}
+```
 
 <!--
 **Irina23/Irina23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
