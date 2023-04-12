@@ -2,7 +2,7 @@
 ```
 const irina23 = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Pug, Gulp, Sassm Git],
+  code: [jQuery, HTML, CSS, Pug, Gulp, Sassm Git],
   tools: [ CMS Joomla, October CMS, joomshopping]
 }
 ```
